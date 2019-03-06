@@ -1,0 +1,2 @@
+# visual_openplatform_ssm
+基于SSM框架搭建的简单平台界面
